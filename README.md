@@ -46,7 +46,7 @@ This statistical research investigates student satisfaction and experience in pr
 
 ## 🧠 Conceptual Framework
 
-![Conceptual Framework](Conceptual_Framework.png)
+![Conceptual Framework](Conceptual_Framework.jpg)
 
 The model shows the dependent variable (Student Satisfaction) and independent variables (Academic Quality, Financial Management, Institutional Environment, Mental Health, Work-Life Balance) and hypothesizes their relationships.
 
@@ -69,8 +69,7 @@ The model shows the dependent variable (Student Satisfaction) and independent va
 
 ## 📍 Institution and Module
 - School of Computing and Engineering  
-- National Institute of Business Management (NIBM), Kandy  
-- Lecturer: Ms. Upeksha Yaparathne  
+- National Institute of Business Management (NIBM), Kandy    
 - Module: Statistics for Computing  
 
 ## 📋 Citation
