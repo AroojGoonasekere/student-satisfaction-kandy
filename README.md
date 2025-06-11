@@ -46,7 +46,7 @@ This statistical research investigates student satisfaction and experience in pr
 
 ## 🧠 Conceptual Framework
 
-![Conceptual Framework](Conceptual_Framework.jpg)
+![Conceptual Framework](Conceptual_Framework.png)
 
 The model shows the dependent variable (Student Satisfaction) and independent variables (Academic Quality, Financial Management, Institutional Environment, Mental Health, Work-Life Balance) and hypothesizes their relationships.
 
